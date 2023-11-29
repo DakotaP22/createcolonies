@@ -1,0 +1,17 @@
+{
+  "name": "Andesite Alloy",
+  "subtitle": "This alloy could change everything!",
+  "branch": "createcolonies:create",
+  "effects": [],
+  "researchLevel": 1,
+  "requirements": [
+    {
+        "item": "minecraft:iron_nugget",
+        "quantity": 2
+    },
+    {
+        "item": "minecraft:andesite",
+        "quantity": 2
+    }
+  ]
+}
